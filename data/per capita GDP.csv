@@ -1,0 +1,192 @@
+ISO,Country,per capita GDP
+AFG,Afghanistan,1828.93
+ALB,Albania,12214.67
+DZA,Algeria,13703.4
+AGO,Angola,5895.03
+ATG,Antigua and Barbuda,25619.67
+ARG,Argentina,17508.89
+ARM,Armenia,9675.85
+ABW,Aruba,35050.77
+AUS,Australia,46601.0
+AUT,Austria,46758.07
+AZE,Azerbaijan,16252.13
+BHS,The Bahamas,29100.83
+BHR,Bahrain,44464.66
+BGD,Bangladesh,4389.57
+BRB,Barbados,16518.9
+BLR,Belarus,18022.52
+BEL,Belgium,43240.16
+BLZ,Belize,7563.81
+BEN,Benin,3008.83
+BTN,Bhutan,8622.22
+BOL,Bolivia,7134.57
+BIH,Bosnia and Herzegovina,12414.22
+BWA,Botswana,16202.01
+BRA,Brazil,14371.62
+BRN,Brunei Darussalam,70177.25
+BGR,Bulgaria,21472.23
+BFA,Burkina Faso,1813.5
+BDI,Burundi,634.839
+CPV,Cabo Verde,6747.94
+KHM,Cambodia,4072.19
+CMR,Cameroon,3453.04
+CAN,Canada,44284.78
+CAF,Central African Republic,718.112
+TCD,Chad,2165.79
+CHL,Chile,22975.56
+CHN,China,17027.48
+COL,Colombia,13567.91
+COM,Comoros,2443.64
+COD,Democratic Republic of the Congo,741.311
+COG,Republic of Congo,6263.12
+CRI,Costa Rica,15747.48
+CIV,Côte d'Ivoire,3891.22
+HRV,Croatia,24207.93
+CYP,Cyprus,36149.4
+CZE,Czech Republic,33903.01
+DNK,Denmark,47040.42
+DJI,Djibouti,4860.63
+DMA,Dominica,10483.41
+DOM,Dominican Republic,16946.15
+ECU,Ecuador,10251.71
+EGY,Egypt,12242.67
+SLV,El Salvador,7257.41
+GNQ,Equatorial Guinea,18595.63
+ERI,Eritrea,925.083
+EST,Estonia,31300.64
+SWZ,Eswatini,9743.71
+ETH,Ethiopia,2192.22
+FJI,Fiji,10604.76
+FIN,Finland,41883.26
+FRA,France,41226.74
+GAB,Gabon,16637.56
+GMB,The Gambia,2396.79
+GEO,Georgia,10674.92
+DEU,Germany,46765.48
+GHA,Ghana,6072.61
+GRC,Greece,26410.77
+GRD,Grenada,14594.66
+GTM,Guatemala,7599.62
+GIN,Guinea,2131.2
+GNB,Guinea-Bissau,1762.22
+GUY,Guyana,7939.13
+HTI,Haiti,1639.55
+HND,Honduras,4709.85
+HKG,Hong Kong SAR,56683.67
+HUN,Hungary,29723.35
+ISL,Iceland,48947.53
+IND,India,7314.57
+IDN,Indonesia,12220.82
+IRN,Islamic Republic of Iran,15419.01
+IRQ,Iraq,15736.43
+IRL,Ireland,72809.97
+ISR,Israel,34153.78
+ITA,Italy,35331.75
+JAM,Jamaica,8461.29
+JPN,Japan,39763.14
+JOR,Jordan,8423.65
+KAZ,Kazakhstan,25186.22
+KEN,Kenya,3382.6
+KIR,Kiribati,1866.15
+KOR,Korea,39059.7
+UVK,Kosovo,10757.05
+KWT,Kuwait,57957.54
+KGZ,Kyrgyz Republic,3541.34
+LAO,Lao P.D.R.,7079.91
+LVA,Latvia,27415.14
+LBN,Lebanon,13138.21
+LSO,Lesotho,3155.62
+LBR,Liberia,1234.08
+LBY,Libya,8170.18
+LTU,Lithuania,32040.81
+LUX,Luxembourg,95117.13
+MAC,Macao SAR,99842.2
+MDG,Madagascar,1483.53
+MWI,Malawi,1082.93
+MYS,Malaysia,28705.92
+MDV,Maldives,20351.87
+MLI,Mali,2157.07
+MLT,Malta,41385.96
+MHL,Marshall Islands,3377.06
+MRT,Mauritania,4261.59
+MUS,Mauritius,21822.27
+MEX,Mexico,18218.06
+FSM,Micronesia,3110.07
+MDA,Moldova,6725.16
+MNG,Mongolia,12492.17
+MNE,Montenegro,17533.88
+MAR,Morocco,8062.55
+MOZ,Mozambique,1137.63
+MMR,Myanmar,5855.55
+NAM,Namibia,9835.41
+NRU,Nauru,7855.98
+NPL,Nepal,2896.88
+NLD,Netherlands,50933.13
+NZL,New Zealand,35744.05
+NIC,Nicaragua,4618.22
+NER,Niger,965.525
+NGA,Nigeria,5286.02
+MKD,North Macedonia,14393.03
+NOR,Norway,66947.79
+OMN,Oman,41351.84
+PAK,Pakistan,5126.09
+PLW,Palau,14173.29
+PAN,Panama,23416.19
+PNG,Papua New Guinea,3477.04
+PRY,Paraguay,11859.28
+PER,Peru,12850.16
+PHL,Philippines,8268.33
+POL,Poland,29587.44
+PRT,Portugal,29390.91
+PRI,Puerto Rico,34980.07
+QAT,Qatar,116013.68
+ROU,Romania,24442.94
+RUS,Russia,25878.7
+RWA,Rwanda,2140.65
+WSM,Samoa,5370.77
+SMR,San Marino,53757.16
+STP,São Tomé and Príncipe,2957.21
+SAU,Saudi Arabia,48631.49
+SEN,Senegal,3363.74
+SRB,Serbia,16207.34
+SYC,Seychelles,27668.94
+SLE,Sierra Leone,1475.73
+SGP,Singapore,90080.16
+SVK,Slovak Republic,31987.96
+SVN,Slovenia,33578.75
+SLB,Solomon Islands,2010.16
+ZAF,South Africa,12007.45
+SSD,South Sudan,1398.85
+ESP,Spain,36311.32
+LKA,Sri Lanka,12132.72
+KNA,St. Kitts and Nevis,26695.27
+LCA,St. Lucia,12651.56
+VCT,St. Vincent and the Grenadines,10873.0
+SDN,Sudan,3554.73
+SUR,Suriname,13559.76
+SWE,Sweden,47691.91
+CHE,Switzerland,57791.11
+TWN,Taiwan Province of China,48084.88
+TJK,Tajikistan,3133.45
+TZA,Tanzania,2970.38
+THA,Thailand,17778.84
+TLS,Timor-Leste,4587.0
+TGO,Togo,1593.98
+TON,Tonga,5662.36
+TTO,Trinidad and Tobago,28561.35
+TUN,Tunisia,11053.65
+TUR,Turkey,24675.53
+TKM,Turkmenistan,17819.13
+TUV,Tuvalu,3733.84
+UGA,Uganda,2296.54
+UKR,Ukraine,8533.55
+ARE,United Arab Emirates,60618.56
+GBR,United Kingdom,40881.3
+USA,United States,56844.31
+URY,Uruguay,20586.49
+UZB,Uzbekistan,7856.91
+VUT,Vanuatu,2581.17
+VNM,Vietnam,7041.59
+YEM,Yemen,1990.84
+ZMB,Zambia,3621.35
+ZWE,Zimbabwe,2358.9
